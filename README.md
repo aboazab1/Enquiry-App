@@ -182,9 +182,13 @@ To connect to your own API:
 4. Add tests if applicable
 5. Submit a pull request
 
+## Author
+
+**Abdulrahman Adel Al-Azab**
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
